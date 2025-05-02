@@ -55,11 +55,9 @@ export default {
 };
 ```
 
-> 💡 Use your actual LAN IP address — **not** `localhost`.
-
 ---
 
-## 📄 API Usage
+## API Usage
 
 | Endpoint            | Method | Description            |
 | ------------------- | ------ | ---------------------- |
@@ -69,7 +67,7 @@ export default {
 
 ---
 
-## 🧱 Built With
+## Built With
 
 - React Native (Expo)
 - `expo-av`, `expo-document-picker`
@@ -77,7 +75,7 @@ export default {
 
 ---
 
-## 📌 To-Do
+## To-Do
 
 - [ ] Improve WebSocket reconnect support
 - [ ] Add waveform visual feedback
@@ -86,7 +84,7 @@ export default {
 
 ---
 
-## ✍️ Author
+## Author
 
 **Mbuthi Mungai**
 Senior Software Engineer

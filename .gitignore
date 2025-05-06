@@ -38,3 +38,5 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 yarn.lock
+
+android
